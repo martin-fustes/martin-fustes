@@ -1,5 +1,10 @@
-[![MasterHead](https://github.com/MartinFustes/MartinFustes/blob/main/1053147.jpg?raw=true)](https://github.com/MartinFustes/MartinFustes.git)
- 
+[![MasterHead](https://github.com/MartinFustes/MartinFustes/blob/main/_header.jpg?raw=true)](https://github.com/MartinFustes/MartinFustes.git)
+
+ About me:
+ - I'm RPA dev & consultant.
+ - I love to explore new technologies and leverage them to solve real-life problems.
+ - 
+
  <!-- <p align="center">
   I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
 </p>   -->
