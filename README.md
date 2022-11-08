@@ -32,7 +32,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinFustes&show_icons=true&&theme=city_lights&hide_border=true" alt="Anurag's github stats" />
-</a>
+</a> |
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinFustes&theme=city_lights&layout=compact&hide_border=true" />
 </a>
@@ -43,7 +43,7 @@
 <p align="center">
   <a href="mailto: martinfnovo@gmail.com">
     <img src="https://img.shields.io/badge/-Martin Fustes-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinfnovo@gmail.com"/>
-  </a>
+  </a> 
   <a href="https://www.linkedin.com/in/martin-fustes/">
     <img src="https://img.shields.io/badge/-Martin Fustes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-fustes/"/>
   </a>
