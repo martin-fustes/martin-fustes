@@ -29,13 +29,13 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=MartinFustes&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
   </a>
 </p> -->
-  
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MartinFustes&show_icons=true&&theme=city_lights"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinFustes&theme=city_lights&layout=compact"/>
-  </a>
-</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinFustes&show_icons=true&&theme=city_lights" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinFustes&theme=city_lights&layout=compact" />
+</a>
 
 <h2 align="center">Reach me out on</h2>
 
