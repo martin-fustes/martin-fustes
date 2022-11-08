@@ -32,8 +32,8 @@
   
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MartinFustes&show_icons=true&&theme=dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinFustes&theme=dark&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MartinFustes&show_icons=true&&theme=city_lights"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinFustes&theme=city_lights&layout=compact"/>
   </a>
 </p>
 
