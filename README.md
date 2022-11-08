@@ -30,12 +30,7 @@
   </a>
 </p> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinFustes&show_icons=true&&theme=city_lights&hide_border=true" alt="Anurag's github stats" />
-</a> |
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinFustes&theme=city_lights&layout=compact&hide_border=true" />
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinFustes&show_icons=true&&theme=city_lights&hide_border=true" alt="Anurag's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinFustes&theme=city_lights&layout=compact&hide_border=true" /></a>
 
 
 <h2 align="center">Reach me out on</h2>
