@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/MartinFustes/MartinFustes/blob/main/_header_.png?raw=true)](https://github.com/MartinFustes/MartinFustes.git)
+[![MasterHead](https://github.com/MartinFustes/MartinFustes/blob/main/header_.png?raw=true)](https://github.com/MartinFustes/MartinFustes.git)
 
  About me:
  - I'm RPA dev & consultant.
