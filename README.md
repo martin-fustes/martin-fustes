@@ -18,8 +18,9 @@
   <img src="https://img.shields.io/badge/-Cshard-grey?style=flat-square&logo=C#"/>
   <img src="https://img.shields.io/badge/-dotnet-grey?style=flat-square&logo=dotnet"/>
   <img src="https://img.shields.io/badge/-python-grey?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/-selenium-grey?style=flat-square&logo=selenium"/>
   <img src="https://img.shields.io/badge/-JavaScript-grey?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C-grey?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Unity-grey?style=flat-square&logo=Unity"/>
   <img src="https://img.shields.io/badge/-postgresql-grey?style=flat-square&logo=postgresql"/>
   <img src="https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql"/>
