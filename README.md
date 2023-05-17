@@ -2,12 +2,8 @@
 
  About me:
  - I'm RPA dev & consultant.
+ - I'm a passionate learner who's always willing to learn and work across technologies and domains.
  - I love to explore new technologies and leverage them to solve real-life problems.
- - 
-
- <!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
  
 <h2 align="center">
   Technology Stack <!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">--> 
@@ -15,16 +11,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-🤖 UiPath-grey?style=flat-square&logo=Uipath"/>
-  <img src="https://img.shields.io/badge/-Cshard-grey?style=flat-square&logo=C#"/>
+  <img src="https://img.shields.io/badge/-🤖 Blue Prism-grey?style=flat-square&logo=Blue Prism"/>
+  <img src="https://img.shields.io/badge/-Csharp-grey?style=flat-square&logo=Csharp"/>
   <img src="https://img.shields.io/badge/-dotnet-grey?style=flat-square&logo=dotnet"/>
   <img src="https://img.shields.io/badge/-python-grey?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/-selenium-grey?style=flat-square&logo=selenium"/>
-  <img src="https://img.shields.io/badge/-JavaScript-grey?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-Unity-grey?style=flat-square&logo=Unity"/>
   <img src="https://img.shields.io/badge/-postgresql-grey?style=flat-square&logo=postgresql"/>
   <img src="https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/-GitLab-grey?style=flat-square&logo=gitlab"/>
 </p>
 
 <h2 align="center">
