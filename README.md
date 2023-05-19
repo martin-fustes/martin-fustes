@@ -10,17 +10,21 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-🤖 UiPath-grey?style=flat-square&logo=Uipath"/>
   <img src="https://img.shields.io/badge/-Csharp-grey?style=flat-square&logo=Csharp"/>
   <img src="https://img.shields.io/badge/-dotnet-grey?style=flat-square&logo=dotnet"/>
   <img src="https://img.shields.io/badge/-python-grey?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/-selenium-grey?style=flat-square&logo=selenium"/>
-  <img src="https://img.shields.io/badge/-Unity-grey?style=flat-square&logo=Unity"/>
-  <img src="https://img.shields.io/badge/-postgresql-grey?style=flat-square&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-GitLab-grey?style=flat-square&logo=gitlab"/>
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/-🤖 UiPath-grey?style=flat-square&logo=Uipath"/>
+ <img src="https://img.shields.io/badge/-🤖 Blue Prism-grey?style=flat-square&logo=Blueprism"/>
+ <img src="https://img.shields.io/badge/-Unity-grey?style=flat-square&logo=Unity"/>
+ <img src="https://img.shields.io/badge/-postgresql-grey?style=flat-square&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql"/>
 </p>
 
 <h2 align="center">
