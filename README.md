@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/MartinFustes/MartinFustes/blob/main/header_.png?raw=true)](https://github.com/MartinFustes/MartinFustes.git)
+[![MasterHead](https://github.com/martin-fustes/martin-fustes/blob/main/header_.png?raw=true)](https://github.com/martin-fustes/martin-fustes.git)
 
  About me:
  - I'm RPA dev & consultant.
@@ -14,9 +14,8 @@
   <img src="https://img.shields.io/badge/-dotnet-grey?style=flat-square&logo=dotnet"/>
   <img src="https://img.shields.io/badge/-python-grey?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/-selenium-grey?style=flat-square&logo=selenium"/>
+  <img src="https://img.shields.io/badge/-🗄️SQL-grey?style=flat-square&logo=SQL"/>
   <img src="https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/-GitLab-grey?style=flat-square&logo=gitlab"/>
 </p>
 
 <p align="center">
@@ -24,7 +23,9 @@
  <img src="https://img.shields.io/badge/-🤖 Blue Prism-grey?style=flat-square&logo=Blueprism"/>
  <img src="https://img.shields.io/badge/-Unity-grey?style=flat-square&logo=Unity"/>
  <img src="https://img.shields.io/badge/-postgresql-grey?style=flat-square&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql"/>
+ <img src="https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql"/>
+ <img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github"/>
+ <img src="https://img.shields.io/badge/-GitLab-grey?style=flat-square&logo=gitlab"/>
 </p>
 
 <h2 align="center">
@@ -37,7 +38,7 @@
   </a>
 </p> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinFustes&show_icons=true&&theme=city_lights&hide_border=true" alt="Anurag's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinFustes&theme=city_lights&layout=compact&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=martin-fustes&show_icons=true&&theme=city_lights&hide_border=true" alt="Anurag's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-fustes&theme=city_lights&layout=compact&hide_border=true" /></a>
 
 
 <h2 align="center">Reach me out on</h2>
