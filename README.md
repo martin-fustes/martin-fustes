@@ -15,17 +15,17 @@
   <img src="https://img.shields.io/badge/-python-grey?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/-selenium-grey?style=flat-square&logo=selenium"/>
   <img src="https://img.shields.io/badge/-🗄️SQL-grey?style=flat-square&logo=SQL"/>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git"/></a>
 </p>
 
 <p align="center">
- <a href="https://www.uipath.com/"><img src="https://img.shields.io/badge/-🤖 UiPath-grey?style=flat-square&logo=Uipath"/></a>
- <a href="https://www.blueprism.com/"><img src="https://img.shields.io/badge/-🤖 Blue Prism-grey?style=flat-square&logo=Blueprism"/></a>
- <a href="https://unity.com/"><img src="https://img.shields.io/badge/-Unity-grey?style=flat-square&logo=Unity"/></a>
- <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-postgresql-grey?style=flat-square&logo=postgresql"/></a>
- <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql"/></a>
- <a href="https://github.com/about"><img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github"/></a>
- <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/-GitLab-grey?style=flat-square&logo=gitlab"/></a>
+ <a href="https://www.uipath.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-🤖 UiPath-grey?style=flat-square&logo=Uipath"/></a>
+ <a href="https://www.blueprism.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-🤖 Blue Prism-grey?style=flat-square&logo=Blueprism"/></a>
+ <a href="https://unity.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Unity-grey?style=flat-square&logo=Unity"/></a>
+ <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-postgresql-grey?style=flat-square&logo=postgresql"/></a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql"/></a>
+ <a href="https://github.com/about" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github"/></a>
+ <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GitLab-grey?style=flat-square&logo=gitlab"/></a>
 </p>
 
 <h2 align="center">
