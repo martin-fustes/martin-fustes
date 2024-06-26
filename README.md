@@ -20,7 +20,7 @@ My expertise spans from initial planning and design through to implementation an
 </p>
 
 <p align="center">
- <a href="https://www.uipath.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-🤖 UiPath-grey?style=flat-square&logo=Uipath"/></a>
+ <a href="https://www.uipath.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-🤖 UiPath-grey?style=flat-square"/></a>
  <a href="https://www.blueprism.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-🤖 Blue Prism-grey?style=flat-square&logo=Blueprism"/></a>
  <a href="https://unity.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Unity-grey?style=flat-square&logo=Unity"/></a>
  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-postgresql-grey?style=flat-square&logo=postgresql"/></a>
